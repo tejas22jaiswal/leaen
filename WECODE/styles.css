@@ -1,0 +1,16 @@
+body{font-family: tahoma;
+    text-align: center;}
+
+header{
+    letter-spacing: 4px;
+    color: aliceblue;
+    background: royalblue;
+    padding: 60px;
+    
+}
+section{
+    padding: 30px;
+    margin-botton: 40px;
+
+}
+
